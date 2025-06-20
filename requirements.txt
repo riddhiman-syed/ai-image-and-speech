@@ -1,0 +1,24 @@
+# --- Basic ---
+cmake
+wheel
+pillow
+imutils
+
+# --- Face Recognition ---
+dlib
+opencv-python
+face_recognition
+mediapipe
+
+# --- Speech Recognition ---
+SpeechRecognition
+pydub
+pyaudio
+librosa
+
+# --- Webapp ---
+flask
+flask_socketio
+simple-websocket
+
+
